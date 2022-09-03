@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "browserslist": "^4.21.3"
+    }
+}
