@@ -1,3 +1,5 @@
 // add whatever parameters you deem necessary
-function twoArrayObject() {
-}
+function twoArrayObject() {}
+
+
+module.exports = twoArrayObject;

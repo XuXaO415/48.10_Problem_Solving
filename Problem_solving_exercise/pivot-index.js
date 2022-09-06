@@ -1,3 +1,4 @@
 // add whatever parameters you deem necessary
-function pivotIndex() {
-}
+function pivotIndex() {}
+
+module.exports = pivotIndex;
